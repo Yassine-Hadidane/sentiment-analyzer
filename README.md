@@ -22,7 +22,7 @@ The pipeline handles tokenization, runs the model, and returns a confidence scor
 3. Enter sentences one by one, type "done" when finished.
 
 ## Output
-The results are displayed as a vertical bar chart — green for positive, red for negative — with confidence percentages.
+![Chart](chart.png)
 
 ## What I learned
 - How NLP pipelines work
